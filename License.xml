@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license type="Non-Production Development" Applications="All" expiration="2023-07-02" id="76e2f36b-f6b3-4112-9b53-34e02441490b">
+  <name>jwkovalenko@gmail.com</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>OZIoFxs5n4Sh6CfqgJUr9Rlyyck=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>1iWKz7nwqZ/GAdHaQAd5pAWaQkWVhiDUOtGUN/LwT6TGybT3esUuopkPtqNDQQ5ipsW4GUV7cqr5k57g2ktbkUAgWqUDYr4UO18yhE4kLGyRquOXhAi44mWUdOREbnTLa8gt5IBYuCprtTFKFopLB7n5d7hPxEbC8/LKCD1zSp4=</SignatureValue>
+  </Signature>
+</license>
